@@ -78,7 +78,7 @@ Here are a few highlights from the findings:
 ---
 
 ## File Structure
----
+```text
  nigerian-housing-analysis
 │
 ├── README.md # This file
