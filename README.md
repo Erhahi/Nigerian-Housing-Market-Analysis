@@ -79,7 +79,7 @@ Here are a few highlights from the findings:
 
 ## File Structure
 ```text
- nigerian-housing-analysis
+ nigerian-housing-analysis/
 │
 ├── README.md # This file
 ├── housing_analysis.sql # All SQL queries used in analysis
@@ -94,7 +94,7 @@ Here are a few highlights from the findings:
 ├── charts/ # Visualizations from Excel
 │ ├── bathroom_vs_price.png
 
----
+
 
 
 
