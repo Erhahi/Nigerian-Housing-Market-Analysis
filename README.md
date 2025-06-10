@@ -94,9 +94,9 @@ Here are a few highlights from the findings:
 ├── img/ # Screenshots of query results
 │ ├── step1_preview.png
 │ ├── step3_luxury_mismatch.png
-│ └── step4_Bathroom premium per state
-│ └── step5_Toilet Vs price 
-│ └── step6_Outlier towns in expensive states
+│ └── step4_Bathroom_premium_per_state.png
+│ └── step5_Toilet_Vs_price.png
+│ └── step6_Outlier_towns_in_expensive_states.png
 │
 ├── charts/ # Visualizations from Excel
   └── bathroom_vs_price.png
